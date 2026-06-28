@@ -96,12 +96,12 @@ Universitas Jember · 2016 – 2023
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dewa99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&show=reviews,prs_merged,prs_merged_percentage" width="49%" />
+<img src="https://git-stat-topaz.vercel.app/api?username=dewa99&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewa99&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewa99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="40%" />
+<img src="https://git-stat-topaz.vercel.app/api/top-langs/?username=dewa99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="40%" />
 
 </div>
 
